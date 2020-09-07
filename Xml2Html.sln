@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml2Html", "Xml2Html\Xml2Html.csproj", "{93A72C64-8DD2-4533-BC13-16A4093978E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xml2Html.UnitTests", "Xml2HtmlTesting\Xml2Html.UnitTests.csproj", "{148A13DE-8F6F-48D6-8339-C4031B00A229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A72C64-8DD2-4533-BC13-16A4093978E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A72C64-8DD2-4533-BC13-16A4093978E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A72C64-8DD2-4533-BC13-16A4093978E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A72C64-8DD2-4533-BC13-16A4093978E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{148A13DE-8F6F-48D6-8339-C4031B00A229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{148A13DE-8F6F-48D6-8339-C4031B00A229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{148A13DE-8F6F-48D6-8339-C4031B00A229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{148A13DE-8F6F-48D6-8339-C4031B00A229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B584226-29DE-4906-B024-54A2DF88682A}
+	EndGlobalSection
+EndGlobal
